@@ -1,0 +1,5 @@
+/* some style */
+p:hover{
+background: #060606;
+transition: 05s;
+}
